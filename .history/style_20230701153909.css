@@ -74,7 +74,7 @@ body
     border-radius: 50%;
     display: flex;
     justify-content: center;
-    align-items: flex-start;
+    align-items: felx-start;
     z-index: 10;
 }
 
@@ -109,7 +109,7 @@ body
 .circle3
 {
     width: 180px;
-    height: 200px;
+    height: 180px;
     z-index: 8;
 }
 
